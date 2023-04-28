@@ -1,0 +1,17 @@
+*{
+    background-color: rgb(10, 10, 80);
+}
+.titulo{
+    background-color:rgb(10, 10, 80) ;
+    text-align: center;
+    color: red;
+    font-size: 40px;
+}
+table tr th{
+    background-color: rgb(10, 10, 80);
+    color: white;
+    border: 1px solid yellow;
+    border-radius: 2px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
